@@ -1,5 +1,7 @@
 # HARVEST RETURNS CASE STUDY
 
+![](jpeg+high+res.jpg)
+
 ## Overview and Origin
 
 * Founded in 2016 by Chris Rawley, Captain, US Navy Reserve
