@@ -15,21 +15,24 @@
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* Individual investors do not have as much access to invest in specific agricultural ventures as larger organizations, small farmers do not have many options besides taking on debt to fund their operations; Harvest Returns serves both of these groups by facilitating investment in deserving agricultural pursuits.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* The intended customers are both the individual investors looking to bolster their portfolio with agricultural assets and the farmers who would like to take on investors rather than debt.  Harvest Returns provides the expertise and technology to analyze and vet potential investment targets, as well as the regulatory guidance investors need.
+
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Harvest Returns operates in the crowdfunding and RegTech domains.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* With the passing of the Jumpstart Our Business Startups (JOBS) Act in April of 2012, crowdfunding quickly became a viable source of funding for many ventures that did not have access to traditional funding sources.  Startups with little or no marketing budget leverage social media to raise awareness of their projects and target potential investors.
 
-* What are the other major companies in this domain?
+* Other crowdfunding companies focusing on agriculture include:
+    * [FarmFunder](https://www.farmfundr.com)
+    - [One to One](https://www.onetoonecf.com)
+    + [FarmTogether](https://farmtogether.com)
 
 
 ## Results
