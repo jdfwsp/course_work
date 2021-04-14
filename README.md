@@ -1,4 +1,4 @@
-# HARVEST RETURNS CASE STUDY
+# [Harvest Returns](https://www.harvestreturns.com/)
 
 ![](jpeg+high+res.jpg)
 
@@ -8,7 +8,7 @@
 
 * Headquartered in Fort Worth, Texas
 
-* The founder learned the importance of agriculture worldwide during his military career but faced barriers when he looked for a way to support small farmers through investment.  His idea was to facilitate the kind of investment he wanted to participate in, making it accessible to more people.
+* The founder developed an appreciation for agriculture by seeing how it was impacted by war during his military career.  He wanted to support local farms and ranches but learned how difficult it is for individuals when he looked for investment oppotunites.  His idea was to facilitate the kind of investment he wanted to participate in, making it accessible to more farmers, ranchers and investors.
 
 * How is the company funded? How much funding have they received?
 
@@ -19,7 +19,6 @@
 
 * The intended customers are both the individual investors looking to bolster their portfolio with agricultural assets and the farmers who would like to take on investors rather than debt.  Harvest Returns provides the expertise and technology to analyze and vet potential investment targets, as well as the regulatory guidance investors need.
 
-
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 
@@ -27,20 +26,24 @@
 
 * Harvest Returns operates in the crowdfunding and RegTech domains.
 
-* With the passing of the Jumpstart Our Business Startups (JOBS) Act in April of 2012, crowdfunding quickly became a viable source of funding for many ventures that did not have access to traditional funding sources.  Startups with little or no marketing budget leverage social media to raise awareness of their projects and target potential investors.
+* With the passing of the Jumpstart Our Business Startups (JOBS) Act in April of 2012, crowdfunding quickly became a viable source of capital for many ventures that did not have access to traditional funding.  Startups with little or no marketing budget can leverage social media to raise awareness of their projects and target potential investors.
 
 * Other crowdfunding companies focusing on agriculture include:
     * [FarmFunder](https://www.farmfundr.com)
-    - [One to One](https://www.onetoonecf.com)
     + [FarmTogether](https://farmtogether.com)
+    - [One to One](https://www.onetoonecf.com)
 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* Harvest Returns reports (as of April 14, 2021):
+    - 23 Farms & Ranches funded
+    - Over $11M raised
+    - $1.8M distributed to investors
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
+* FarmFundr reports they have raised $2M and funded 2 farms in the last 5 years, a fraction of what Harvest Returns has accomplished.
 * How is your company performing relative to competitors in the same domain?
 
 
@@ -54,3 +57,7 @@
 
 * Why are these technologies appropriate for your solution?
 
+
+### Sources
+
+* https://www.withvincent.com/platforms/farmfundr
