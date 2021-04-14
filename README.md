@@ -1,17 +1,12 @@
-# course_work
-FinTech Course Work
-
-# TITLE
+# HARVEST RETURNS CASE STUDY
 
 ## Overview and Origin
 
-* Name of company
+* Founded in 2016 by Chris Rawley, Captain, US Navy Reserve
 
-* When was the company incorporated?
+* Headquartered in Fort Worth, Texas
 
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
+* The founder learned the importance of agriculture worldwide during his military career but faced barriers when he looked for a way to support small farmers through investment.  His idea was to facilitate the kind of investment he wanted to participate in, making it accessible to more people.
 
 * How is the company funded? How much funding have they received?
 
