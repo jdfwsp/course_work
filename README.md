@@ -10,7 +10,7 @@
 
 * The founder developed an appreciation for agriculture by seeing how it was impacted by war during his military career.  He wanted to support local farms and ranches but learned how difficult it is for individuals when he looked for investment oppotunites.  His idea was to facilitate the kind of investment he wanted to participate in, making it accessible to more farmers, ranchers and investors.
 
-* How is the company funded? How much funding have they received?
+* The company has raised over $11M since opening.
 
 
 ## Business Activities:
@@ -19,7 +19,7 @@
 
 * The intended customers are both the individual investors looking to bolster their portfolio with agricultural assets and the farmers who would like to take on investors rather than debt.  Harvest Returns provides the expertise and technology to analyze and vet potential investment targets, as well as the regulatory guidance investors need.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Harvest Returns harnesses white label SaaS offerings like [CrowdEngine](https://www.crowdengine.com/), [HubSpot](https://www.hubspot.com/) and [MailChimp](https://mailchimp.com/) for UI/UX, while [FundAmerica](https://www.fundamerica.com/) and [PrimeTrust](https://www.primetrust.com/) provide know-your-customer compliance support, escrow and other financial services for their backend.  They are equipped to handle cryptocurrency investments, but have not at this point.  They also partnedred with [Agritecture](https://www.agritecture.com/), a farm planning and tracking SaaS offering, and the CEO sits on the board of [AgroFides](https://agrofides.com/), a company offering finance solutions to farmers in Africa.
 
 
 ## Landscape:
